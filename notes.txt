@@ -1,0 +1,5 @@
+npm init       => to initialize package.json
+npm init --yes => shortcut to initialize with default answers
+npm i <package name> => to install the package.
+
+npm i => to install app dependencies defined  in package.json
